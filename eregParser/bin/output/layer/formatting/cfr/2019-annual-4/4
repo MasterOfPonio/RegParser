@@ -1,0 +1,98 @@
+{
+    "4-14-a-7": [
+        {
+            "footnote_data": {
+                "note": "Some forms and instructions that national banks and Federal savings associations use are not available from the OCC. The OCC will provide information on where persons may obtain these forms and instructions upon request.", 
+                "ref": "1"
+            }, 
+            "locations": [
+                0
+            ], 
+            "text": "[^1](Some forms and instructions that national banks and Federal savings associations use are not available from the OCC. The OCC will provide information on where persons may obtain these forms and instructions upon request.)"
+        }
+    ], 
+    "4-5-b-p1": [
+        {
+            "locations": [
+                0
+            ], 
+            "table_data": {
+                "header": [
+                    [
+                        {
+                            "colspan": 1, 
+                            "rowspan": 1, 
+                            "text": "District"
+                        }, 
+                        {
+                            "colspan": 1, 
+                            "rowspan": 1, 
+                            "text": "Office location"
+                        }, 
+                        {
+                            "colspan": 1, 
+                            "rowspan": 1, 
+                            "text": "Geographical composition"
+                        }
+                    ]
+                ], 
+                "rows": [
+                    [
+                        "Northeastern District", 
+                        "Office of the Comptroller of the Currency, 340 Madison Avenue, 5th Floor, New York, NY 10173-0002", 
+                        "Connecticut, Delaware, District of Columbia, northeast Kentucky, Maine, Maryland, Massachusetts, New Hampshire, New Jersey, New York, North Carolina, Pennsylvania, Puerto Rico, Rhode Island, South Carolina, Vermont, the Virgin Islands, Virginia, and West Virginia."
+                    ], 
+                    [
+                        "Central District", 
+                        "Office of the Comptroller of the Currency, One Financial Place, Suite 2700, 440 South LaSalle Street, Chicago, IL 60605", 
+                        "Illinois, Indiana, central and southern Kentucky, Michigan, northern and eastern Minnesota, eastern Missouri, North Dakota, Ohio, and Wisconsin."
+                    ], 
+                    [
+                        "Southern District", 
+                        "Office of the Comptroller of the Currency, 500 North Akard Street, Suite 1600, Dallas, TX 75201", 
+                        "Alabama, Arkansas, Florida, Georgia, Louisiana, Mississippi, Oklahoma, Tennessee, and Texas."
+                    ], 
+                    [
+                        "Western District", 
+                        "Office of the Comptroller of the Currency, 1225 17th Street, Suite 300, Denver, CO 80202", 
+                        "Alaska, American Samoa, Arizona, California, Colorado, Guam, Hawaii, Idaho, Iowa, Kansas, southwestern Minnesota, western Missouri, Montana, Nebraska, Nevada, New Mexico, Northern Mariana Islands, Oregon, South Dakota, Utah, Washington, and Wyoming."
+                    ]
+                ]
+            }, 
+            "text": "|District|Office location|Geographical composition|\n|---|---|---|\n|Northeastern District|Office of the Comptroller of the Currency, 340 Madison Avenue, 5th Floor, New York, NY 10173-0002|Connecticut, Delaware, District of Columbia, northeast Kentucky, Maine, Maryland, Massachusetts, New Hampshire, New Jersey, New York, North Carolina, Pennsylvania, Puerto Rico, Rhode Island, South Carolina, Vermont, the Virgin Islands, Virginia, and West Virginia.|\n|Central District|Office of the Comptroller of the Currency, One Financial Place, Suite 2700, 440 South LaSalle Street, Chicago, IL 60605|Illinois, Indiana, central and southern Kentucky, Michigan, northern and eastern Minnesota, eastern Missouri, North Dakota, Ohio, and Wisconsin.|\n|Southern District|Office of the Comptroller of the Currency, 500 North Akard Street, Suite 1600, Dallas, TX 75201|Alabama, Arkansas, Florida, Georgia, Louisiana, Mississippi, Oklahoma, Tennessee, and Texas.|\n|Western District|Office of the Comptroller of the Currency, 1225 17th Street, Suite 300, Denver, CO 80202|Alaska, American Samoa, Arizona, California, Colorado, Guam, Hawaii, Idaho, Iowa, Kansas, southwestern Minnesota, western Missouri, Montana, Nebraska, Nevada, New Mexico, Northern Mariana Islands, Oregon, South Dakota, Utah, Washington, and Wyoming.|"
+        }
+    ], 
+    "4-A-h2-h3-p6": [
+        {
+            "dash_data": {
+                "text": ""
+            }, 
+            "locations": [
+                0
+            ], 
+            "text": "_____"
+        }
+    ], 
+    "4-A-h2-h3-p8": [
+        {
+            "dash_data": {
+                "text": ""
+            }, 
+            "locations": [
+                0
+            ], 
+            "text": "_____"
+        }
+    ], 
+    "4-A-h7-p14-p16": [
+        {
+            "dash_data": {
+                "text": ""
+            }, 
+            "locations": [
+                0
+            ], 
+            "text": "_____"
+        }
+    ]
+}

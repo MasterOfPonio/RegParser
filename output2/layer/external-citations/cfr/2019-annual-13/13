@@ -1,0 +1,100 @@
+{
+    "13-1": [
+        {
+            "citation_type": "USC", 
+            "components": {
+                "section": "78", 
+                "title": "15"
+            }, 
+            "locations": [
+                0
+            ], 
+            "text": "15 U.S.C. 78", 
+            "url": "http://api.fdsys.gov/link?collection=uscode&section=78&title=15&year=mostrecent"
+        }, 
+        {
+            "citation_type": "CFR", 
+            "components": {
+                "cfr_title": "17", 
+                "p1": "d", 
+                "part": "400", 
+                "section": "1"
+            }, 
+            "locations": [
+                0
+            ], 
+            "text": "17 CFR 400.1(d)", 
+            "url": "http://api.fdsys.gov/link?collection=cfr&partnum=400&section=1&titlenum=17&year=mostrecent"
+        }
+    ], 
+    "13-100-a": [
+        {
+            "citation_type": "USC", 
+            "components": {
+                "section": "78", 
+                "title": "15"
+            }, 
+            "locations": [
+                0
+            ], 
+            "text": "15 U.S.C. 78", 
+            "url": "http://api.fdsys.gov/link?collection=uscode&section=78&title=15&year=mostrecent"
+        }
+    ], 
+    "13-2-a": [
+        {
+            "citation_type": "USC", 
+            "components": {
+                "section": "78", 
+                "title": "15"
+            }, 
+            "locations": [
+                0
+            ], 
+            "text": "15 U.S.C. 78", 
+            "url": "http://api.fdsys.gov/link?collection=uscode&section=78&title=15&year=mostrecent"
+        }, 
+        {
+            "citation_type": "CFR", 
+            "components": {
+                "cfr_title": "17", 
+                "p1": "d", 
+                "part": "400", 
+                "section": "1"
+            }, 
+            "locations": [
+                0
+            ], 
+            "text": "17 CFR 400.1(d)", 
+            "url": "http://api.fdsys.gov/link?collection=cfr&partnum=400&section=1&titlenum=17&year=mostrecent"
+        }
+    ], 
+    "13-2-c": [
+        {
+            "citation_type": "USC", 
+            "components": {
+                "section": "78", 
+                "title": "15"
+            }, 
+            "locations": [
+                0
+            ], 
+            "text": "15 U.S.C. 78", 
+            "url": "http://api.fdsys.gov/link?collection=uscode&section=78&title=15&year=mostrecent"
+        }
+    ], 
+    "13-2-d-2": [
+        {
+            "citation_type": "USC", 
+            "components": {
+                "section": "80", 
+                "title": "15"
+            }, 
+            "locations": [
+                0
+            ], 
+            "text": "15 U.S.C. 80", 
+            "url": "http://api.fdsys.gov/link?collection=uscode&section=80&title=15&year=mostrecent"
+        }
+    ]
+}

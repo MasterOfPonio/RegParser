@@ -1,0 +1,26 @@
+{
+    "13-100-d": [
+        {
+            "footnote_data": {
+                "note": "The interpretation in this section does not address the obligation related to suitability that requires that a bank have \u201c* * * a \u2018reasonable basis\u2019 to believe that the recommendation could be suitable for at least some customers.\u201d In the Matter of the Application of F.J. Kaufman and Company of Virginia and Frederick J. Kaufman, Jr., 50 SEC 164 (1989).", 
+                "ref": "1"
+            }, 
+            "locations": [
+                0
+            ], 
+            "text": "[^1](The interpretation in this section does not address the obligation related to suitability that requires that a bank have \u201c* * * a \u2018reasonable basis\u2019 to believe that the recommendation could be suitable for at least some customers.\u201d In the Matter of the Application of F.J. Kaufman and Company of Virginia and Frederick J. Kaufman, Jr., 50 SEC 164 \\(1989\\).)"
+        }
+    ], 
+    "13-100-g": [
+        {
+            "footnote_data": {
+                "note": "See footnote 1 in paragraph (d) of this section.", 
+                "ref": "2"
+            }, 
+            "locations": [
+                0
+            ], 
+            "text": "[^2](See footnote 1 in paragraph \\(d\\) of this section.)"
+        }
+    ]
+}
