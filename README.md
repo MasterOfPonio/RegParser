@@ -19,3 +19,5 @@ This repository is part of a larger project. To read about it, please see
 See [eregs-parser on Read the Docs](https://eregs-parser.readthedocs.org/) for setup,
 architecture, and maintenance docs.
 
+Arkright
+
